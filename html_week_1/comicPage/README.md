@@ -1,0 +1,1 @@
+Create a webpage and reproduce the comic page shown in the image called galactusbeatdown.jpg

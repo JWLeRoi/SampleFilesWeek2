@@ -1,0 +1,40 @@
+div {
+	width: 50%;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+ul,li {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+ul {
+	width: 50%;
+	display: block;
+	margin: 0 auto;
+}
+
+a {
+	width: 100%;
+	text-align: center;
+	display: block;
+	background: lightblue;
+	padding: 4px;
+	color: #000;
+	font-family: sans-serif;
+	transition: all .5s ease;
+	text-decoration: none;
+	margin: 0 auto;
+}
+
+a:hover {
+	background-color: darkblue;
+	color: #fff;
+	width: 80%;
+}
