@@ -1,4 +1,22 @@
-#ChapterList li
-    {
-        list-style-type: none;
-    }
+#ChapterList
+{
+    list-style-type: none;
+}
+
+h1
+{
+    font-size: 40px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h2
+{
+    font-size: 30px;
+    font-family: Arial, Verdana, sans-serif;
+}
+
+ul
+{
+    font-size: 20px;
+    font-family: Arial, Verdana, sans-serif;
+}
