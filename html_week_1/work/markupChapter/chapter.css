@@ -1,4 +1,4 @@
-div {
+#wrapper {
 	width: 50%;
 	margin: 0 auto;
 }
@@ -18,12 +18,7 @@ p {
 	transition: all .5s ease;
 }
 
-p:hover {
-	color: #fff;
-	margin-left: -1.5em;
-	margin-right: -1.5em;
-	background-color: pink;
-}
+
 
 img {
 	width: 50%;

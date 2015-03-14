@@ -1,0 +1,70 @@
+.row {
+	width: 908px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#panel3 {
+	background: transparent url(panel3.jpg) no-repeat top left;
+	height: 305px;
+	width: 903px;
+}
+
+#panel5 {
+	background: transparent url(panel5.jpg) no-repeat top left;
+	height: 556px;
+	width: 572px;	
+}
+
+#row3 div {
+	float: left;
+}
+
+.bump {
+	display: inline-block;
+}
+
+.bump5 {
+	margin-left: 5px;
+}
+
+.bump10 {
+	margin-left: 10px;
+}
+
+.bubbles {
+	position: absolute;
+	font-family: Arial;
+	font-size: 17px;
+	text-transform: uppercase;
+}
+
+#bubble1 {
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  font-family: Arial;
+  font-size: 16px;
+}
+
+#bubble2 {
+	top: 13px;
+	left: 158px;
+	width: 310px;
+	font-size: 14px;
+}
+
+#bubble3 {
+	top: 88px;
+	left: 260px;
+	font-size: 15px;
+	width: 221px;
+	line-height: 1;
+}
+
+#bubble4 {
+	top: 15px;
+	right: 250px;
+	width: 177px;
+	font-size: 15px;
+}
