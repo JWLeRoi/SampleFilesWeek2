@@ -1,7 +1,7 @@
 body
 {
-    font-family: Arial, Verdana, sans-serif;
-    margin: 0 auto;
+    font-family: Old Standard TT, serif;
+    margin: 0px auto;
     width: 50%;
 }
 
@@ -23,19 +23,21 @@ p
 {
     font-size: 20px;
     text-indent: 3em;
-    margin: 0 auto 1.3em;
+    margin: 0px auto 1.3em;
 }
 
 #separator1-1
 {
     text-align: center;
+    text-indent: 0px;
+    margin: 0px auto 1.3em;
 }
 
 #poem2-1
 {
     font-weight: bold;
     text-indent: 0em;
-    margin: 0 0 1.3em 10%;
+    margin: 0px 0px 1.3em 10%;
 }
 
 #figure2-1

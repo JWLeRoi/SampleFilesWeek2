@@ -1,42 +1,41 @@
-#ChapterList
-{
-    list-style-type: none;
-}
-
 body
 {
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Old Standard TT, serif;
 }
-
-h1
+#HeadingLevel1
 {
     font-size: 40px;
+    height: 45px;
     text-align: center;
+    white-space: pre;
 }
 
-h2
+#HeadingLevel2
 {
     font-size: 30px;
+    height: 34px;
     text-align: center;
+    white-space: pre;
 }
 
-ul
+#VideoBox
+{
+    text-align: center;
+    margin: 0px 0px 15px 0px;
+}
+
+#BulletedChapterList
 {
     font-size: 20px;
-    margin: 0;
-    padding: 0;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+
 }
 
-li
+.ListEntry
 {
-    margin: 0;
-    padding: 0;
+    height: 30px;
     text-align: center;
-}
-
-#videobox
-{
-    position: absolute;
-    margin-left: 0;
-    margin-top: 0;
+    white-space: pre;
 }
