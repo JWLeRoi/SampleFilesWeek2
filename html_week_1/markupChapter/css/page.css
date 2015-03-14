@@ -1,0 +1,54 @@
+body
+{
+    font-family: Arial, Verdana, sans-serif;
+    margin: 0 auto;
+    width: 50%;
+}
+
+h1
+{
+    font-size: 40px;
+    border-bottom: double;
+    border-bottom-width: 20px;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+p
+{
+    font-size: 20px;
+    text-indent: 3em;
+    margin: 0 auto 1.3em;
+}
+
+#separator1-1
+{
+    text-align: center;
+}
+
+#poem2-1
+{
+    font-weight: bold;
+    text-indent: 0em;
+    margin: 0 0 1.3em 10%;
+}
+
+#figure2-1
+{
+    white-space: pre;
+}
+
+#figure3-1
+{
+    white-space: pre;
+}
+
+#videobox
+{
+    position: relative;
+}

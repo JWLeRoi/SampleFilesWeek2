@@ -1,0 +1,35 @@
+#ChapterList
+{
+    list-style-type: none;
+}
+
+body
+{
+    font-family: Arial, Verdana, sans-serif;
+}
+
+h1
+{
+    font-size: 40px;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 30px;
+    text-align: center;
+}
+
+ul
+{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+li
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
