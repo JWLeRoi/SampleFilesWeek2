@@ -1,2 +1,410 @@
+.Row
+{
+    width: 908px;
+    margin: 0 auto;
+    position: relative;
+}
 
+body
+{
+    background: cornflowerblue;
 
+}
+
+#Row1
+{
+
+}
+
+#Row2
+{
+
+}
+
+#Row3
+{
+
+}
+
+#Text1-1
+{
+    position: absolute;
+    top: 13px;
+    left: 18px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 15px;
+}
+
+#Dialog1-1
+{
+    position: absolute;
+    top: 13px;
+    left: 149px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog1-2
+{
+    position: absolute;
+    top: 28px;
+    left: 144px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog1-3
+{
+    position: absolute;
+    top: 43px;
+    left: 150px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog1-4
+{
+    position: absolute;
+    top: 58px;
+    left: 159px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog1-5
+{
+    position: absolute;
+    top: 87px;
+    left: 268px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog1-6
+{
+    position: absolute;
+    top: 102px;
+    left: 255px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog1-7
+{
+    position: absolute;
+    top: 118px;
+    left: 289px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-1
+{
+    position: absolute;
+    top: 15px;
+    left: 485px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-2
+{
+    position: absolute;
+    top: 31px;
+    left: 485px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-3
+{
+    position: absolute;
+    top: 15px;
+    left: 697px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-4
+{
+    position: absolute;
+    top: 30px;
+    left: 685px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-5
+{
+    position: absolute;
+    top: 45px;
+    left: 672px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-6
+{
+    position: absolute;
+    top: 60px;
+    left: 670px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-7
+{
+    position: absolute;
+    top: 75px;
+    left: 676px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-8
+{
+    position: absolute;
+    top: 90px;
+    left: 683px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-9
+{
+    position: absolute;
+    top: 105px;
+    left: 749px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-10
+{
+    position: absolute;
+    top: 132px;
+    left: 731px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog2-11
+{
+    position: absolute;
+    top: 147px;
+    left: 718px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+#Dialog2-12
+{
+    position: absolute;
+    top: 162px;
+    left: 716px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+#Dialog2-13
+{
+    position: absolute;
+    top: 177px;
+    left: 714px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+#Dialog2-14
+{
+    position: absolute;
+    top: 192px;
+    left: 732px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+#Dialog2-15
+{
+    position: absolute;
+    top: 207px;
+    left: 751px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+#Dialog2-16
+{
+    position: absolute;
+    top: 274px;
+    left: 821px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+#Dialog2-17
+{
+    position: absolute;
+    top: 288px;
+    left: 825px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+#Dialog2-18
+{
+    position: absolute;
+    top: 303px;
+    left: 828px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Text3-1
+{
+    position: absolute;
+    top: 20px;
+    left: 684px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 15px;
+    }
+
+#Text3-2
+{
+    position: absolute;
+    top: 35px;
+    left: 684px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 15px;
+}
+
+#Text3-3
+{
+    position: absolute;
+    top: 50px;
+    left: 684px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 15px;
+}
+
+#Text3-4
+{
+    position: absolute;
+    top: 65px;
+    left: 707px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 15px;
+}
+
+#Dialog3-1
+{
+    position: absolute;
+    top: 12px;
+    left: 15px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog3-2
+{
+    position: absolute;
+    top: 27px;
+    left: 36px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: 15px;
+}
+
+#Dialog3-3
+{
+    position: absolute;
+    top: 15px;
+    left: 697px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog3-4
+{
+    position: absolute;
+    top: 30px;
+    left: 685px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog3-5
+{
+    position: absolute;
+    top: 45px;
+    left: 672px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog3-6
+{
+    position: absolute;
+    top: 60px;
+    left: 670px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog3-7
+{
+    position: absolute;
+    top: 75px;
+    left: 676px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog3-8
+{
+    position: absolute;
+    top: 90px;
+    left: 683px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
+
+#Dialog3-9
+{
+    position: absolute;
+    top: 105px;
+    left: 749px;
+    font-family: Arial;
+    font-style: normal;
+    font-size: 15px;
+}
