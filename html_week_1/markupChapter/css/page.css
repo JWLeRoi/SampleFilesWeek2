@@ -8,7 +8,7 @@ body
 h1
 {
     font-size: 40px;
-    border-bottom: double;
+    border-bottom-style: double;
     border-bottom-width: 20px;
     text-align: center;
 }
@@ -17,6 +17,8 @@ h2
 {
     font-size: 30px;
     text-align: center;
+    border-width: 20px;
+    border-style: solid;
 }
 
 p
@@ -49,4 +51,3 @@ p
 {
     white-space: pre;
 }
-
