@@ -5,11 +5,47 @@ body
     background: #FFFFFF;
 }
 
-.GreenText
+.FontSize01
+{
+    font-size: 11.7px;
+}
+
+.FontSize02
+{
+    font-size: 13.7px;
+}
+
+.FontSize03
+{
+    font-size: 9.5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 13px;
+}
+
+.FontSize04
+{
+    font-size: 9.5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 13px;
+}
+
+.FontSize05
+{
+    font-size: 8px;
+
+}
+
+.GreenText01
 {
     color: #005A00;
 }
 
+.GreenText02
+{
+    color: #005000;
+}
 
 .RedText
 {
@@ -56,89 +92,6 @@ body
     vertical-align: bottom;
     padding: 0px;
     line-height: 9px;
-}
-
-.FontSize01
-{
-    font-size: 11.7px;
-}
-
-.FontSize02
-{
-    font-size: 13.7px;
-}
-
-.FontSize03
-{
-
-}
-
-#MBC01
-{
-    position: absolute;
-    top: 163px;
-    left: 20px;
-    width: 329px;
-    height: 900px;
-    border-width: thin;
-    border-color: red;
-    margin: 0px;
-    padding: 0px;
-    border-style: solid;
-}
-
-#T02
-{
-    font-size: 12px;
-    font-weight: bold;
-    line-height: 10.5px;
-}
-
-#LunchSpecial
-{
-    padding-left: 6px;
-    padding-right: 0px;
-    padding-top: 11px;
-    padding-bottom: 0px;
-    height: 29px;
-    width: 274px;
-    text-align: center;
-}
-
-.Ribbon01
-{
-    font-size: 25px;
-}
-
-#SpecialsHours
-{
-    padding-left: 4px;
-    padding-right: 0px;
-    padding-top: 6px;
-    padding-bottom: 0px;
-    height: 10px;
-    width: 274px;
-}
-
-.Ribbon02
-{
-    font-size: 10.5px;
-}
-
-#SpecialsSides
-{
-    padding-left: 6px;
-    padding-right: 0px;
-    padding-top: 6px;
-    padding-bottom: 3px;
-    height: 10px;
-    width: 274px;
-}
-
-.Ribbon03
-{
-    font-size: 11.5px;
-
 }
 
 .T01C01
@@ -195,6 +148,73 @@ body
     text-align: right;
 }
 
+#MBC01
+{
+    position: absolute;
+    top: 159px;
+    left: 20px;
+    width: 329px;
+    height: 863px;
+    border-width: thin;
+    border-color: #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+    border-style: solid;
+}
+
+#T02
+{
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 10.5px;
+}
+
+#LunchSpecial
+{
+    padding-left: 6px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 29px;
+    width: 274px;
+    text-align: center;
+}
+
+.RibbonText01
+{
+    font-size: 25px;
+}
+
+#SpecialsHours
+{
+    padding-left: 4px;
+    padding-right: 0px;
+    padding-top: 6px;
+    padding-bottom: 0px;
+    height: 10px;
+    width: 274px;
+}
+
+.RibbonText02
+{
+    font-size: 10.5px;
+}
+
+#SpecialsSides
+{
+    padding-left: 6px;
+    padding-right: 0px;
+    padding-top: 6px;
+    padding-bottom: 3px;
+    height: 10px;
+    width: 274px;
+}
+
+.RibbonText03
+{
+    font-size: 11px;
+}
+
 .T02C01
 {
     width: 28px;
@@ -238,48 +258,84 @@ body
 
 #T03
 {
-    font-size: 12px;
-    font-weight: bold;
-    line-height: 10.5px;
+
 }
 
 #Appetizers
 {
-    padding-left: 6px;
+    font-weight: bold;
+    padding-left: 0px;
     padding-right: 0px;
-    padding-top: 11px;
+    padding-top: 10px;
     padding-bottom: 0px;
-    height: 29px;
-    width: 274px;
+    height: 21px;
+    width: 251px;
     text-align: center;
 }
 
-.Ribbon04
+.RibbonText04
 {
-    font-size:20px;
+    font-size: 18px;
 }
 
-#T03C01
+#T03B
 {
-
+    font-weight: bold;
 }
 
-#T03C02
+.T03C01
 {
-
+    width: 10px;
+    height: 13px;
+    text-align: right;
+    padding-left: 11px;
+    padding-right: 6px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
-#T03C03
+.T03C02
 {
-
+    width: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 
-#T03C04
+.T03C03
 {
+    width: 272px;
+    text-align: left;
+    padding-left: 4px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
 
+.T03C04
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: left;
 }
 
 
+.RibbonText05
+{
+    font-size: 16px;
+    font-weight: bold;
+    font-variant: small-caps;
+    letter-spacing: -.5px;
+    text-align: center;
+    padding-top: 9px;
+}
 
+.RibbonText06
+{
+    font-size: 11px;
+    font-weight: normal;
+    letter-spacing: 0px;
+    text-align: center;
+    padding-top: 0px;
+    font-style: italic;
+}
 
 
