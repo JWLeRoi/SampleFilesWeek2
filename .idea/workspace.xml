@@ -55,8 +55,8 @@
       <file leaf-file-name="menu.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/html_week_1/restaurantMenu/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.836232" vertical-offset="9484" max-vertical-offset="13328">
-              <caret line="673" column="29" selection-start-line="673" selection-start-column="29" selection-end-line="673" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.17246377" vertical-offset="0" max-vertical-offset="13328">
+              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#th#0;n#tr#20;n#tbody#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#th#0;n#tr#21;n#tbody#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -75,8 +75,8 @@
       <file leaf-file-name="menu.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html_week_1/restaurantMenu/css/menu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2242" max-vertical-offset="5899">
-              <caret line="156" column="15" selection-start-line="156" selection-start-column="15" selection-end-line="156" selection-end-column="15" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1324" max-vertical-offset="5916">
+              <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/html_week_1/restaurantMenu/table_example.html" />
         <option value="$PROJECT_DIR$/html_week_1/markupChapter/css/page.css" />
         <option value="$PROJECT_DIR$/html_week_1/restaurantMenu/menu_previous.html" />
-        <option value="$PROJECT_DIR$/html_week_1/restaurantMenu/menu.html" />
         <option value="$PROJECT_DIR$/html_week_1/restaurantMenu/css/menu.css" />
+        <option value="$PROJECT_DIR$/html_week_1/restaurantMenu/menu.html" />
       </list>
     </option>
   </component>
@@ -121,7 +121,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1597" />
+    <option name="x" value="472" />
+    <option name="y" value="10" />
     <option name="width" value="990" />
     <option name="height" value="885" />
   </component>
@@ -474,7 +475,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1597" y="0" width="990" height="885" extended-state="1" />
+    <frame x="472" y="10" width="990" height="885" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -620,16 +621,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html_week_1/restaurantMenu/css/menu.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2242" max-vertical-offset="5899">
-          <caret line="156" column="15" selection-start-line="156" selection-start-column="15" selection-end-line="156" selection-end-column="15" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1324" max-vertical-offset="5916">
+          <caret line="109" column="8" selection-start-line="109" selection-start-column="8" selection-end-line="109" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html_week_1/restaurantMenu/resources/chinese_pg1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html_week_1/restaurantMenu/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.836232" vertical-offset="9484" max-vertical-offset="13328">
-          <caret line="673" column="29" selection-start-line="673" selection-start-column="29" selection-end-line="673" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.17246377" vertical-offset="0" max-vertical-offset="13328">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#img#0;n#th#0;n#tr#20;n#tbody#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#th#0;n#tr#21;n#tbody#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -642,11 +648,6 @@
             <element signature="n#style#0;n#img#0;n#th#0;n#tr#28;n#tbody#0;n#table#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html_week_1/restaurantMenu/resources/chinese_pg1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
   </component>
