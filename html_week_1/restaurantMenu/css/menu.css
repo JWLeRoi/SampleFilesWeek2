@@ -76,7 +76,7 @@ body
     line-height: 10.5px;
 }
 
-#SpecialsHeading01
+#ColumnHeading01
 {
     font-size: 16px;
     vertical-align: middle;
@@ -85,7 +85,7 @@ body
     letter-spacing: .75px;
 }
 
-.SpecialsHeading02
+.ColumnHeading02
 {
     font-size: 8.5px;
     text-align: right;
@@ -216,7 +216,7 @@ body
     font-size: 11px;
 }
 
-.T02C01
+.T02BC01
 {
     width: 28px;
     text-align: right;
@@ -224,14 +224,14 @@ body
     padding-bottom: 3px;
 }
 
-.T02C02
+.T02BC02
 {
     width: 0px;
     padding-top: 0px;
     padding-bottom: 3px;
 }
 
-.T02C03
+.T02BC03
 {
     width: 272px;
     text-align: left;
@@ -240,7 +240,7 @@ body
     padding-bottom: 3px;
 }
 
-.T02C04
+.T02BC04
 {
     padding-top: 0px;
     padding-bottom: 3px;
@@ -284,7 +284,7 @@ body
     font-weight: bold;
 }
 
-.T03C01
+.T03BC01
 {
     width: 10px;
     height: 13px;
@@ -293,35 +293,37 @@ body
     padding-right: 6px;
     padding-top: 0px;
     padding-bottom: 0px;
+    line-height: 0px;
 }
 
-.T03C02
+.T03BC02
 {
     width: 10px;
     padding-top: 0px;
     padding-bottom: 0px;
+    line-height: 0px;
 }
 
-.T03C03
+.T03BC03
 {
     width: 272px;
     text-align: left;
     padding-left: 4px;
     padding-top: 0px;
     padding-bottom: 0px;
+    line-height: 0px;
 }
 
-.T03C04
+.T03BC04
 {
     padding-top: 0px;
     padding-bottom: 0px;
     text-align: left;
+    line-height: 0px;
 }
 
-
-.RibbonText05
+#Hot
 {
-    font-size: 16px;
     font-weight: bold;
     font-variant: small-caps;
     letter-spacing: -.5px;
@@ -329,14 +331,163 @@ body
     padding-top: 9px;
 }
 
-.RibbonText06
+.RibbonText05
 {
-    font-size: 11px;
+    font-size: 16px;
+}
+
+#Alter
+{
     font-weight: normal;
     letter-spacing: 0px;
     text-align: center;
     padding-top: 0px;
     font-style: italic;
+    line-height: 2px;
 }
 
+.RibbonText06
+{
+    font-size: 11px;
+}
 
+#MBC02
+{
+    position: absolute;
+    top: 159px;
+    left: 350px;
+    width: 375px;
+    height: 863px;
+    border-width: thin;
+    border-color: #FFFFFF;
+    margin: 0px;
+    padding: 0px;
+    border-style: solid;
+}
+
+#T04
+{
+    font-weight: bold;
+}
+
+#T04H
+{
+
+}
+
+.T04HC01
+{
+
+}
+
+.T04HC02
+{
+
+}
+
+.T04HC03
+{
+    font-size: 8.5px;
+    width: 0px;
+    height: 0px;
+    padding-left: 27px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center
+}
+
+.T04HC04
+{
+    font-size: 8.5px;
+    width: 0px;
+    height: 0px;
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.T04HC05
+{
+    font-size: 8.5px;
+    width: 0px;
+    height: 0px;
+    text-align: right;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#Soup
+{
+    width: 223px;
+    height: 21px;
+    text-align: center;
+    padding-left: 24px;
+    padding-right: 0px;
+    padding-top: 17px;
+    padding-bottom: 0px;
+}
+
+#T04B
+{
+
+}
+
+.T04BC01
+{
+    width: 17px;
+    height: 10px;
+    padding-left: 51px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: right;
+}
+
+.T04BC02
+{
+    width: 13px;
+    height: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+.T04BC03
+{
+    width: 223px;
+    height: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: left;
+}
+
+.T04BC04
+{
+    width: 24px;
+    height: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: right;
+}
+
+.T04BC05
+{
+    width: 24px;
+    height: 10px;
+    padding-left: 7px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: right;
+}
