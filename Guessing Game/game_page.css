@@ -1,0 +1,27 @@
+#divGuessLabel
+{
+    font-size: 24px;
+}
+
+#inGuess
+{
+    width: 300px;
+}
+
+#divGuessesList
+{
+    height: 300px;
+    width: 400px;
+    border-color: black;
+    background: khaki;
+}
+
+#space01
+{
+    border-width: 0;
+}
+
+#space03
+{
+    border-width: 0;
+}
