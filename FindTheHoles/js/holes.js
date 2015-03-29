@@ -65,23 +65,6 @@ $(document).ready(function()
             //alert("Here");
             //alert("inputText - keypress")
         }
-    });
-
-    submitButton.on("click", function()
-    {
-        var inputStrArray = inputText.val().split("");
-        alert(inputStrArray);
-        var result = inputStrArray.map(findChar);
-        var count  = result.reduce(function(runningTotal, currentValue)
-        {
-            return runningTotal + currentValue;
-        });
-
-        alert(count);
-
-        outputText.val("There are " + count + " holes in the string.");
-
-        alert("Here");
 
     });
 
