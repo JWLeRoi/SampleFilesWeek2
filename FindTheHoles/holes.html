@@ -10,14 +10,16 @@
         </head>
 
         <body>
+            <!--Use Bootstrap CSS classes for HTML element layout.-->
             <div class="row">
-                <div class="col-sm-6 col-sm-offset-3">
-                    <h2 class="center-block">
+                <div class="col-sm-6 col-sm-offset-3 text-center">
+                    <h2>
                         Find The Holes
                     </h2>
 
                     <div class="form-group clearfix">
-                        <input type="text" id="inBox" class="form-control" placeholder="Enter a string of letters.">
+                        <label id="lblInBox" for="inBox">Click in the box to clear the string. Press Enter to evaluate.</label>
+                        <input type="text" id="inBox" class="form-control text-center" placeholder="Enter a string of letters, numbers, and symbols.">
                         <hr>
                         <input type="text" id="outBox" class="form-control">
                     </div>
