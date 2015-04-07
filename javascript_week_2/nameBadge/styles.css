@@ -1,0 +1,115 @@
+body {
+    font-family: sans-serif;
+    background-image: url(wood-grain-texture.jpg);
+    background-size: cover;
+}
+
+
+.container {
+    font-size: 18px;
+    width: 400px;
+    height: 250px;
+    background: #e7e7e7;
+    margin: 100px auto 0;
+    padding: 0 20px 20px;
+    border-radius: 10px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.5);
+    position: relative;
+    transform: rotate(-15deg) translateX(25px);
+    transition: all .4s ease;
+    top: 100px;
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 3px groove #fff;
+    padding: 5px;
+    margin: 0 -20px 10px -20px;
+    background-color: #517ED0;
+    border-radius: 10px 10px 0 0;
+    color: #fff;
+}
+
+span.intro {
+    font-size: 18px;
+    display: block;
+    font-weight: 200;
+    text-transform: lowercase;
+}
+
+form {
+    padding: 20px;
+}
+
+label {
+    display: block;
+    text-shadow: 0 1px 0 rgba(255,255,255,1);
+    font-size: 18px;
+    text-align: center;
+}
+
+input[type='text'] {
+    font-size: 20px;
+    padding: 5px;
+    border: 0;
+    display: block;
+    margin: 5px 0;
+    width: 350px;
+    text-align: center;
+}
+
+.controls {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.controls input {
+    border: 0;
+    background-color: #517ED0;
+    color: #fff;
+    font-size: 16px;
+    padding: 5px 10px;
+    margin: 0 3px;
+}
+
+.nameBlock {
+    position: relative;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    height: 160px;
+    width: 400px;
+    transition: all .5s ease;
+}
+
+.nameBlock.open {
+    opacity: 1;
+    display: flex;
+}
+
+#closer {
+    background-color: #000;
+    border: 3px groove #fff;
+    width: 20px;
+    height: 20px;
+    border-radius: 26px;
+    position: absolute;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 1;
+    padding-right: 1px;
+    right: -18px;
+    top: -23px;
+    cursor: pointer;
+}
+
+.name {
+    font-size: 200px;
+    display: inline-block;
+    font-family: 'Pacifico', cursive;
+}

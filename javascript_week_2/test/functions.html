@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+	<meta charset="UTF-8">
+	<title></title>
+	<script src="../jquery-2.1.3.js"></script>
+	<script>
+		$(function() {
+			$('button').click(function(){
+				setTimeout(alternative('addon'),1000);
+			});
+
+			function alternative(cls) {
+				return function(){
+					$('.target').addClass(cls);
+				}
+
+			}
+		});
+	</script>
+	<style>
+		.target {
+			background-color: red;
+			width: 200px;
+			height: 200px;
+			transition: all .5s ease;
+		}
+
+		.addon {
+			border-radius: 100px;
+		}
+	</style>
+</head>
+<body>
+	<button id="clickme">click me</button>
+	<div class="target"></div>
+</body>
+</html>
