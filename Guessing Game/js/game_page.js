@@ -6,7 +6,7 @@ window.onload=WinLoad;
 
 function WinLoad()
 {
-    //Set up variables.
+    /*Set up variables.*/
     var targetNumber = getTarget();
     var numGuesses   = 0;
     var inputBox     = document.getElementById("textGuess");
@@ -21,6 +21,7 @@ function WinLoad()
     {
         //Add the guess to the total number of guesses.
         numGuesses += 1;
+
         //Get the guess.
         guessValue = inputBox.value;
 
