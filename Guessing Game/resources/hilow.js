@@ -8,7 +8,6 @@ $(function(){
         , status = $('#guesses')
         , reset = $('#reset');
 
-
     var guesses = 0;
     var aNumber = getRandom();
 
