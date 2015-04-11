@@ -1,0 +1,146 @@
+.container
+{
+    width: 1180px;
+    margin: 0 auto;
+}
+
+#div_01
+{
+    position: relative;
+    height: 623px;
+    width: 100%;
+}
+
+#div_01_01
+{
+    position: absolute;
+    top: 68px;
+    left: 107px;
+}
+
+nav
+{
+    position: absolute;
+    top: 60px;
+    left: 610px;
+    height: 45px;
+    margin: 0;
+}
+
+nav ul
+{
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+    height: 20px;
+    display: flex;
+    list-style: none;
+}
+
+nav ul li
+{
+    padding-top: 8px;
+    padding-right: 41px;
+}
+
+a
+{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#hamburger_icon
+{
+    padding-top: 0px;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+#div_01_02 li
+{
+    font-family: Arial, Verdana, sans-serif;
+    font-weight: normal;
+    color: white;
+    position: absolute;
+    list-style: none;
+    left: 122px;
+}
+
+#div_01_02 .line_01
+{
+    top: 385px;
+    font-size: 36px;
+}
+
+#div_01_02 .line_02
+{
+    top: 432px;
+    font-size: 36px;
+}
+
+#div_01_02 .line_03
+{
+    top: 496px;
+    font-size: 18px;
+}
+
+#div_02
+{
+    background-color: #25aa99;
+    border-radius: 5px;
+    color: white;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 16px;
+    height: 50px;
+    width: 945px;
+    position: relative;
+    margin: 37px auto 0 auto;
+    font-weight: normal;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    white-space: pre;
+}
+
+#div_02 p
+{
+    margin: 0;
+}
+
+#div_03
+{
+    position: relative;
+    width: 945px;
+    margin: 63px auto 0 auto;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#div_03 h3 {
+    font-size: 33px;
+    height: 40px;
+    margin: 0 0 30px 0;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+#div_03 p
+{
+    line-height: 25px;
+    margin: 25px auto 0 auto;
+}
+
+#div_04
+{
+    margin: 63px auto 0 auto;
+    position: relative;
+    display: flex;
+    width: 945px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
