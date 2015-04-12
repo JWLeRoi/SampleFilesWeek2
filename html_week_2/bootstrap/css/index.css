@@ -2,6 +2,7 @@
 {
     width: 1180px;
     margin: 0 auto;
+    font-family: Arial, Verdana, sans-serif;
 }
 
 #div_01
@@ -29,7 +30,6 @@ nav
 
 nav ul
 {
-    font-family: Arial, Verdana, sans-serif;
     font-weight: bold;
     font-size: 14px;
     color: white;
@@ -59,7 +59,6 @@ a
 
 #div_01_02 li
 {
-    font-family: Arial, Verdana, sans-serif;
     font-weight: normal;
     color: white;
     position: absolute;
@@ -90,7 +89,6 @@ a
     background-color: #25aa99;
     border-radius: 5px;
     color: white;
-    font-family: Arial, Verdana, sans-serif;
     font-size: 16px;
     height: 50px;
     width: 945px;
@@ -113,7 +111,6 @@ a
     position: relative;
     width: 945px;
     margin: 63px auto 0 auto;
-    font-family: Arial, Verdana, sans-serif;
     font-size: 15px;
     text-align: left;
     font-weight: bold;
@@ -138,9 +135,39 @@ a
 {
     margin: 63px auto 0 auto;
     position: relative;
-    display: flex;
     width: 945px;
+    display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: space-between;
+}
+
+#div_04 .par_01
+{
+    font-size: 17px;
+    font-weight: bold;
+    margin: 11px 0 0 0;
+}
+
+#div_04 .par_02
+{
+    font-size: 13px;
+    font-weight: bold;
+    color: #25AA99;
+    margin: 7px 0 0 0;
+}
+
+#div_04 .par_03
+{
+    font-size: 14px;
+    font-weight: normal;
+    color: #B4BBC3;
+    margin: 7px 0 0 0;
+}
+
+#div_05
+{
+    margin: 76px auto 0 auto;
+    position: relative;
+    width: 945px;
 }
